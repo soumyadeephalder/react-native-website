@@ -9,6 +9,9 @@ To get set up with the basic project structure for a native module we will use a
 
 ```
 $ yarn global add create-react-native-module
+OR
+$ npm install -g create-react-native-module
+
 $ create-react-native-module MyLibrary
 ```
 
